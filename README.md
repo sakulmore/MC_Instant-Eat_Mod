@@ -1,4 +1,4 @@
-# Minecraft (Fabric) - Instant Eat
+# Minecraft (Fabric) - Instant Eat Mod
 Instantly consume food and potions without having to wait for the standard eating or drinking animations.
 
 If you want to speed up your gameplay, survive tough encounters more easily, or simply remove the repetitive waiting time when replenishing your hunger or buffs, this quality-of-life tweak is perfect for you. It streamlines your survival experience down to a single click.
