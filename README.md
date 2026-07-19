@@ -20,4 +20,4 @@ If you want to speed up your gameplay, survive tough encounters more easily, or 
 You can use the mod in both Singleplayer and Multiplayer. If you install the mod on your server, every player will automatically eat instantly (so there will be no unfair play).
 
 # Showcases
-Will be added later...
+[https://youtu.be/2xpEF6nl-Hg](https://youtu.be/2xpEF6nl-Hg)
