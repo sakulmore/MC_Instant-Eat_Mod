@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "instanteat-mod",
+	"version": "1.0.1",
+	"name": "InstantEat Mod",
+	"description": "Immediate consumption of food and potions.",
+	"authors": [
+		"sakulmore"
+	],
+	"icon": "assets/instanteat-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.instanteat.InstantEatMod"
+		],
+		"client": [
+			"com.instanteat.client.InstantEatModClient"
+		],
+		"modmenu": [
+			"com.instanteat.client.ModMenuIntegration"
+		]
+	},
+	"mixins": [
+		"instanteat-mod.mixins.json",
+		{
+			"config": "instanteat-mod.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*",
+		"cloth-config": ">=26.2.155"
+	}
+}

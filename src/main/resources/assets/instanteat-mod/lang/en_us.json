@@ -1,0 +1,5 @@
+{
+  "text.autoconfig.instanteat.title": "Instant Eat Config",
+  "text.autoconfig.instanteat.option.restoreFullHunger": "Restore full hunger",
+  "text.autoconfig.instanteat.option.restoreFullHunger.@Tooltip": "Consuming food uses as many of the same item as needed to fully restore hunger."
+}
